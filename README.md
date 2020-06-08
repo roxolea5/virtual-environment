@@ -6,3 +6,4 @@ Setting virtual environment for sharing files
 13:53 - ping between guest and host, manual continuation
 10:49 - extra exercise: ssh session (PuTTY)
 11:20 - extra exercise copying files with WinSCP
+17:53 - normal forms in dbms
